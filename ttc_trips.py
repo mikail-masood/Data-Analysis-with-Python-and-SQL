@@ -1,4 +1,3 @@
-""" CSC120 Assignment 2, Part 1 - Fall 2018"""
 from typing import List
 import sqlite3
 

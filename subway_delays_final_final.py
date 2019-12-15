@@ -1,4 +1,4 @@
-""" CSC120 Assignment 2, Part 2 - 2018 Fall"""
+
 from typing import List, Dict, Tuple
 import sqlite3
 import numpy as np
